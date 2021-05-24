@@ -22,5 +22,6 @@ catch (ArithmeticException e) {
 	System.out.println("Second number cannot be = 0");
 }
 	}
+	// This is task 2
 
 }
